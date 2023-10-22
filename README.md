@@ -1,11 +1,9 @@
-# UsabilityHub-website-clone
-
 # UsabilityHub Clone (HTML & CSS Only)
 
 Welcome to the UsabilityHub Clone project! This open-source web application is a replica of the popular UsabilityHub website, created using only HTML and CSS. It allows you to create and run various usability tests, receive feedback, and enhance the user experience of your designs.
 
-![UsabilityHub Clone](![UsabilityHub](https://github.com/rathodlucky12/UsabilityHub-Clone/assets/131651450/7da25ac2-a15f-4295-9b82-d05071f9d18e)
-)
+![UsabilityHub](https://github.com/rathodlucky12/UsabilityHub-Clone/assets/131651450/370059cd-d435-4a29-a2c1-a2ae134e39c5)
+
 
 # Table of Contents
 - [Features](#features)
