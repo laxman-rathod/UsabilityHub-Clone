@@ -12,6 +12,7 @@ Welcome to the UsabilityHub Clone project! This open-source web application is a
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Owner](#owner)
 
 # Features
 - **Create Tests**: Like the original UsabilityHub, you can create different types of tests, such as preference tests, click tests, and five-second tests, using only HTML forms.
@@ -22,10 +23,10 @@ Welcome to the UsabilityHub Clone project! This open-source web application is a
 
 - **Responsive Design**: The application is designed to be responsive, providing a consistent experience on various devices.
 
-## Demo
+# Demo
 You can view a live demo of the UsabilityHub Clone at [Demo URL](https://rathodlucky12.github.io/UsabilityHub-Clone).
 
-## Installation
+# Installation
 To run the UsabilityHub Clone on your local machine, simply clone the repository and open the HTML files in your web browser:
 
 1. Clone the repository to your local machine:
@@ -49,5 +50,9 @@ We welcome contributions from the open-source community. If you'd like to contri
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+# Owner 🌟
+ - Name: Laxman Rathod
+ - GitHub profile [Laxman Rathod](https//www.github.com/rathodlucky12)
 
 Thnaks for visiting us❤️
