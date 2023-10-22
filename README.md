@@ -4,7 +4,8 @@
 
 Welcome to the UsabilityHub Clone project! This open-source web application is a replica of the popular UsabilityHub website, created using only HTML and CSS. It allows you to create and run various usability tests, receive feedback, and enhance the user experience of your designs.
 
-![UsabilityHub Clone](url_to_screenshot_or_gif)
+![UsabilityHub Clone](![UsabilityHub](https://github.com/rathodlucky12/UsabilityHub-Clone/assets/131651450/7da25ac2-a15f-4295-9b82-d05071f9d18e)
+)
 
 # Table of Contents
 - [Features](#features)
@@ -24,14 +25,14 @@ Welcome to the UsabilityHub Clone project! This open-source web application is a
 - **Responsive Design**: The application is designed to be responsive, providing a consistent experience on various devices.
 
 ## Demo
-You can view a live demo of the UsabilityHub Clone at [Demo URL](insert_demo_url_here).
+You can view a live demo of the UsabilityHub Clone at [Demo URL](https://rathodlucky12.github.io/UsabilityHub-Clone).
 
 ## Installation
 To run the UsabilityHub Clone on your local machine, simply clone the repository and open the HTML files in your web browser:
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/usabilityhub-clone-html-css.git
+   git clone https://rathodlucky12.github.io/UsabilityHub-Clone.git
    ```
 
 2. Navigate to the project directory and open the HTML files in your preferred web browser.
@@ -51,6 +52,4 @@ We welcome contributions from the open-source community. If you'd like to contri
 # License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-This simplified README focuses on your use of HTML and CSS to create the clone, with a clear emphasis on the manual nature of creating and analyzing tests using HTML forms. Replace `[insert_demo_url_here]` with the URL of your live demo if available.
+Thnaks for visiting us❤️
