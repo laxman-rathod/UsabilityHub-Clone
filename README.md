@@ -12,7 +12,7 @@ Welcome to the UsabilityHub Clone project! This open-source web application is a
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Owner](#owner🌟)
+- [Owner](#owner)
 
 # Features
 - **Create Tests**: Like the original UsabilityHub, you can create different types of tests, such as preference tests, click tests, and five-second tests, using only HTML forms.
