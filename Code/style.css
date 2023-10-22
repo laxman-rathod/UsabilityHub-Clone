@@ -71,7 +71,7 @@ a{
 
 .top-banner{
     background-color: #4dadf7;
-    background-image: url('./assets/asset\ 32.png');
+    background-image: url('asset 32.png');
     background-size: 300px;
 }
 
@@ -191,7 +191,7 @@ ul{
 
 .features-section{
     padding: 80px var(--padding-inlilne-section) 0;
-    background-image: url(./assets/asset\ 34.svg);
+    background-image: url(asset 34.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -279,7 +279,7 @@ ul{
     position: relative;
     min-height: 300px;
     background: black;
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./assets/asset\ 36.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(asset36.jpeg);
     background-size: cover;
     transition: 0.2s ease-out;
 }
@@ -289,22 +289,22 @@ ul{
 }
 
 .exa-card:nth-child(1){
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./assets/asset\ 36.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(asset 36.jpeg);
     background-size: cover;
 }
 
 .exa-card:nth-child(2){
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./assets/asset\ 37.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(asset 37.jpeg);
     background-size: cover;
 }
 
 .exa-card:nth-child(3){
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./assets/asset\ 38.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(asset 38.jpeg);
     background-size: cover;
 }
 
 .exa-card:nth-child(4){
-    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(./assets/asset\ 39.jpeg);
+    background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)), url(asset 39.jpeg);
     background-size: cover;
 }
 
